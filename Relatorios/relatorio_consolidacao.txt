@@ -1,0 +1,15 @@
+RELATÓRIO DE CONSOLIDAÇÃO — BPS 2020 A 2026
+
+ arquivo  linhas_brutas
+2020.csv          84819
+2021.csv          83622
+2022.csv          88991
+2023.csv          31992
+2024.csv          26258
+2025.csv          26215
+2026.csv            819
+
+Registros antes da limpeza: 342716
+Duplicados removidos: 19
+Registros após a limpeza: 342697
+Divergências entre preço_total e quantidade x preço_unitário: 0

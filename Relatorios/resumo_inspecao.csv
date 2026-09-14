@@ -1,0 +1,8 @@
+﻿arquivo;ano;linhas;colunas;estrutura_igual;duplicados_completos;anos_divergentes;compra_data_invalida;insercao_data_invalida;capacidade_invalida;quantidade_invalida;preco_unitario_invalido;preco_total_invalido
+2020.csv;2020;84819;25;True;0;0;0;0;0;0;0;0
+2021.csv;2021;83622;25;True;0;0;0;0;0;0;0;0
+2022.csv;2022;88991;25;True;0;0;0;0;0;0;0;0
+2023.csv;2023;31992;25;True;0;0;0;0;0;0;0;0
+2024.csv;2024;26258;25;True;16;0;0;0;0;0;0;0
+2025.csv;2025;26215;25;True;1;0;0;0;0;0;0;0
+2026.csv;2026;819;25;True;2;0;0;0;0;0;0;0

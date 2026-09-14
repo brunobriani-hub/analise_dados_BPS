@@ -1,0 +1,9 @@
+﻿.venv/
+Dados Brutos/
+Dados Tratados/*.csv
+Dashboard/BPS_2020_2026_Bruno_Briani.pbix
+__pycache__/
+*.pyc
+.vscode/
+Thumbs.db
+~$*.pbix
